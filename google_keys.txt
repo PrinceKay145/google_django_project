@@ -1,0 +1,4 @@
+rc_key=6LdmwkwiAAAAAIU92T_5R7oKGsriYV0fFXXRXj67
+rc_secret_key=6LdmwkwiAAAAAK_Ymf4pJwGLKknNXb4OTyZdgxTL
+
+google=AIzaSyAEYrorJfjOdLXESyLCdf_chj1TY0wih_Y
